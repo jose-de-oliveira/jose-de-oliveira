@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Olá! Sou o José de Oliveira e este é meu repositório de Análise e Ciência de Dados!
 <!--
 **jose-de-oliveira/jose-de-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
