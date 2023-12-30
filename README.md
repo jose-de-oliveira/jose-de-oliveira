@@ -1,4 +1,13 @@
-### Olá! Sou o José de Oliveira e este é meu repositório de Análise e Ciência de Dados!
+<h1 align="center"> Olá! Eu sou o Zé! 👋 </h1>
+
+<p align="center"> Este é meu repositório de Análise e Ciência de Dados! </p>
+
+## 💭 Sobre mim
+- 🎓 Minha formação acadêmica:
+   - Bacharel em Matemática Industrial (UFC)
+   - Mestre em Estatística (UFPE)
+   - Doutorando em Estatística (USP)
+
 <!--
 **jose-de-oliveira/jose-de-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
