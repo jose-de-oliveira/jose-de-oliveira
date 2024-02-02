@@ -32,6 +32,6 @@
 ###
   <h2 align="left">🗺 Guia de Repositórios</h2>
 
- - [Portfolio](https://github.com/jose-de-oliveira/Portifolio): Projetos de ciência de dados desenvolvidos para o meu portfólio
- - [Aprendizado](https://github.com/jose-de-oliveira/Aprendizado): Documentos sobre métodos e ferramentas que aprendi ao longo da minha carreira
- - [Indicações](https://github.com/jose-de-oliveira/Indicacoes): Indicações de livros e conteúdos que contribuíram pra minha carreira
+ - [Portfolio](https://github.com/jose-de-oliveira/Portifolio): Projetos de ciência de dados desenvolvidos
+ - [Aprendizado](https://github.com/jose-de-oliveira/Aprendizado): Documentos sobre métodos e ferramentas relacionados aos projetos
+ - [Indicações](https://github.com/jose-de-oliveira/Indicacoes): Indicações de livros e conteúdos que contribuem para meu conhecimento
